@@ -1,0 +1,19 @@
+ {
+    "products": [
+        {
+            "sku": "petImage00",
+            "name": "Widget",
+            "price": 9.99
+        },
+        {
+            "sku": "petImage01",
+            "name": "Premium Widget",
+            "price": 19.99
+        },
+        {
+            "sku": "petImage02",
+            "name": "Deluxe Widget",
+            "price": 29.99
+        }
+    ]
+}
